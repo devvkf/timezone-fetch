@@ -82,7 +82,3 @@ There are no third-party dependencies or build steps. Run the following quick ch
 python -m py_compile timezonefetch.py
 python timezonefetch.py --plain
 ```
-
-## License
-
-This project is provided as-is. Add a license before distributing it for reuse.
